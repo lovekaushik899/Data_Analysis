@@ -2,8 +2,6 @@
 
 Welcome to this collection of essential **Machine Learning algorithms** implemented in Python and applied to real-world datasets! This repository is designed to be both beginner-friendly and informative for enthusiasts looking to deepen their understanding of each model.
 
-![Machine Learning Banner](https://via.placeholder.com/1000x250?text=Machine+Learning+Models+on+Various+Datasets)
-
 ---
 
 ## 📌 Contents
